@@ -11,8 +11,6 @@
 ## 🍃 About Me
 
 - 🔬 I'm a **Data Scientist** with a **Master's degree in Environmental Biotechnology**
-- 🌱 My research background (amoxicillin removal from water via adsorption, validated with Random Forest / Gradient Boosting / MLP against real lab experiments) is where my data science journey started
-- 📊 I now build my career around **environmental & applied data science**: EDA, feature engineering, classical ML, deep learning, NLP/GenAI, and deployment
 - 🧪 I love turning messy real-world data — biological, environmental, business — into clear, honest, decision-ready stories
 - 🌸 Currently polishing my portfolio and expanding into advanced SQL, BI dashboards & RAG pipelines
 - 💌 Reach me: [LinkedIn](https://www.linkedin.com/in/aya-belaidi/) · [X (Twitter)](https://twitter.com/aya_belaidi)
